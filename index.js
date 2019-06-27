@@ -5,4 +5,8 @@ function lowerCaseDrivers(drivers) {
   });
 };
 
-function nameToAttributes
+function nameToAttributes(driverArr) {
+  return driverArr.map(function(driverName){
+    return 
+  });
+};
